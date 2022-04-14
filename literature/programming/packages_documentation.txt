@@ -1,0 +1,11 @@
+Landscape Metrics:
+
+https://cran.r-project.org/web/packages/landscapemetrics/landscapemetrics.pdf
+
+1 hour of videos touching upon it by an an author:
+https://www.r-bloggers.com/2020/05/introduction-to-landscape-ecology-with-r/
+
+
+Motif:
+
+https://jakubnowosad.com/motif/articles/v1_intro.html
